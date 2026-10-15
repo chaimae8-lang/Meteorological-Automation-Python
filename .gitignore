@@ -1,0 +1,14 @@
+# Fichiers générés
+rapports_meteo/
+*.log
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+.venv/
+
+# Configuration locale
+.env
